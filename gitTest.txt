@@ -1,6 +1,10 @@
 this is a test 
 
+<<<<<<< HEAD
 Loradsfem ipsum doladsfor sasdfit amet, consecteadsftur adzcxidddpisicing elit, sed do eiusmod tempor incididuzcnt ut labasfore eddt dolore magna aliqua. Uasdft enimzc adzc minimzc veniam, quis nostruasdfrit in vffoluptazcte velit esse cillum dolore ezcxu fugizcat nulla paafdsrieur sint occaecat cupidatat non proident, sunt in culpa qzcxudasdfadai offasdficia deserunt mollit anim asdfasdid est laasdfborum.zcdfsasdfasdfasdfsadf
+=======
+Lorem alskdfhjlk asdjglfkj dask sakthi asdkljfgha is flaskdjf gay lksajdforis nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+>>>>>>> 1c72fbbf224f53090483c5f80a95e89b82371f7c
 
 orem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
