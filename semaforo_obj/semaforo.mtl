@@ -1,0 +1,67 @@
+# Blender3D MTL File: semaforo.blend
+# Material Count: 6
+newmtl ambar
+Ns 213.725490
+Ka 0.000000 0.000000 0.000000
+Kd 0.151655 0.140409 0.000000
+Ks 1.000000 1.000000 1.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd dibujo.jpg
+
+
+newmtl stop_semaforo_boys.jpg
+Ns 213.725490
+Ka 0.000000 0.000000 0.000000
+Kd 0.081569 0.081569 0.081569
+Ks 1.000000 1.000000 1.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd semaforo_boys.jpg
+
+
+newmtl go_semaforo_boys.jpg
+Ns 213.725490
+Ka 0.000000 0.000000 0.000000
+Kd 0.081569 0.081569 0.081569
+Ks 1.000000 1.000000 1.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd semaforo_boys.jpg
+
+
+newmtl metalic
+Ns 109.803922
+Ka 0.000000 0.000000 0.000000
+Kd 0.283531 0.416816 0.234182
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+
+
+newmtl red
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.123446 0.000000 0.000000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd dibujo.jpg
+
+
+newmtl green
+Ns 82.352941
+Ka 0.000000 0.000000 0.000000
+Kd 0.290196 0.898039 0.066667
+Ks 0.504756 0.504756 0.504756
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd dibujo.jpg
+
+
